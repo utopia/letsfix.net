@@ -9,7 +9,7 @@ If you are able to figure out what the issue is, it becomes so much easier to ac
 #### To work towards solutions
 We want to offer a place that contributions to build on each other over time. We want to make forward progress towards goals and not let that positive energy go to waste.
 
-#### To brige the communication gap.
+#### To bridge the communication gap.
 Biggest issue is often communication.
 
 A lot of problems are the result of misunderstanding in communication.
