@@ -8,3 +8,5 @@ Here are teams that can be contributed to:
 * Executive — Lead long-term direction.
 * Outreach — Actively seek out new users that may gain from learning about LFx.
 * Support — Assist users have the best experience possible.
+
+Contributors can be on more than one team.
