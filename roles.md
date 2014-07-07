@@ -4,10 +4,10 @@ It's important for contributors to feel a clear understanding of how they can co
 
 * Admin — Ensure contributors can be as effective as possible.
 * Design — Craft engaging visual experiences.
-* Engineering — Develop code to make things run.
+* Engineering — Program the code that makes things run.
 * Executive — Lead long-term direction.
+* Funding — Sponsor Letsfix development.
 * Outreach — Actively seek out new users that may gain from learning about LFx.
-* Sponsor - Fund Letsfix.
 * Support — Assist users have the best experience possible.
 
 ##### Contribute wherever you can! Contributors can be on more than one team.
