@@ -1,7 +1,6 @@
 It's important for contributors to feel a clear understanding of how they can contribute to Letsfix.
 
-#### Letsfix Teams
-##### Contribute wherever you can!
+### Letsfix Teams
 
 * Admin — Ensure contributors can be as effective as possible.
 * Design — Craft engaging visual experiences.
@@ -11,4 +10,4 @@ It's important for contributors to feel a clear understanding of how they can co
 * Sponsor - Fund Letsfix.
 * Support — Assist users have the best experience possible.
 
-Contributors can be on more than one team.
+##### Contribute wherever you can! Contributors can be on more than one team.
