@@ -2,7 +2,7 @@ This document introduces someone new to Letsfix.
 
 ### Welcome to Letsfix
 
-Letsfix is a grassroots platform for individuals to come together to fix the world around them.
+##### Letsfix is a grassroots platform for individuals to come together to fix the world around them.
 
 
 There's lots of good intention out in the world, but that doesn't always translate into results.
