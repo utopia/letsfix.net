@@ -1,4 +1,6 @@
-MTM
+Hello
 ===
 
-Welcome to MTM on GitHub. Visit http://maybethismatters.org for more information.
+Welcome to the Letsfix network on GitHub. 
+
+Visit http://maybethismatters.org for more information.
