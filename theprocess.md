@@ -1,6 +1,6 @@
 # How to Solve Problems: The Letsfix Process
 
-From soup-to-nuts, how does one solve an issue using Letsfix?
+From [soup to nuts](http://en.wikipedia.org/wiki/Soup_to_nuts), how does one solve an issue using Letsfix?
 
 ### Step 1. Diagnose
   
@@ -8,7 +8,7 @@ From soup-to-nuts, how does one solve an issue using Letsfix?
   * What does the problem look like? Others can suggest improvements for this section.
   * Who is affected? Does this issue affect the whole world or one particular group of people? For example, your country, school, or organization.
 
-Answer these questions to open new Issue on Letsfix. This is where the process begins.
+Answer these questions to open a new Issue on Letsfix.
 
 ### Step 2. Spread Awareness
   * Share the link to the issue page with friends. Think email, Facebook, Twitter, or any other social networks.
