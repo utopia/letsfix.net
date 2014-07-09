@@ -1,13 +1,13 @@
-# Contributions to the Letsfix project
+## Contributions to the Letsfix project
 
-## Creator & Maintainer
+#### Creator & Maintainer
 
 * David Ernst <github@dsernst.com>
 
 
-## Contributors
+#### Contributors
 
-In chronological order:
+##### In chronological order:
 
 * Reddit team <https://github.com/reddit/reddit>
   * Original codebase
