@@ -1,11 +1,11 @@
 # How to Solve Problems: The Letsfix Process
 
-From [soup to nuts](http://en.wikipedia.org/wiki/Soup_to_nuts), how does one use the Letsfix process to solve an issue?
+From [soup to nuts](http://en.wikipedia.org/wiki/Soup_to_nuts), how can someone use the Letsfix process to solve an issue?
 
-### Step 1. Identify
+### Step 1. Identify the Problem
 ##### "As any doctor can tell you, the most crucial step toward healing is having the right diagnosis. If the disease is precisely identified, a good resolution is far more likely." — Dr. Andrew Weil
 Answer these questions to open a new Issue on Letsfix.
-  * What is the issue? Just a short title.
+  * What is the issue? Think of a short title.
   * What community is affected? Does this issue affect the whole world or one particular group of people? For example, your country, school, or organization.
   * What are the facts of the problem? This section can be collaboratively improved. Try to think about:
     * How long has this been a problem?
@@ -22,13 +22,13 @@ Answer these questions to open a new Issue on Letsfix.
     * The community shows how widespread it wants a fix to this issue.
     * This also makes it easier for each individual to follow up later. They will be able to see all issues they've identified, and could get a polite reminder after a period of time.
 
-### Step 3. Resolve
+### Step 3. Gather Solutions
 ##### "None of us is as smart as all of us." — Ken Blanchard
-We gather our options to fix into a *Ways to Fix* list. This makes it easier for the people who care to solve this problem.
+We gather any options for resolution into a list of potential fixes. This develops and clarifies paths to solve the problem.
   * What efforts are already underway to address this problem?
   * What individual actions would help?
   * Everyone's suggestions are welcome.
-  * Each person can upvote/downvote a particular option if they think it's good, neutral, or bad. This will lift the most supported ideas to the top of the list.
+  * Each person can upvote/downvote a particular option if they think it's good, neutral, or bad. This lifts the most supported ideas to the top of the list.
 
 
 ######  Critisms and suggestions for this process are always welcome.
