@@ -10,13 +10,13 @@
 ##### In chronological order:
 
 * Reddit team <https://github.com/reddit/reddit>
-  * Original codebase
+  Original codebase
 
 * Spike
-  * Setting up initial reddit install
+  Helped with initial reddit install
 
 * Mohammed A
   * suggested name "letsfix" after so many other ideas
 
-* [Your name or handle] <[email or website]>
-  * [Brief summary of your changes]
+* [Your name or handle] <email or website>
+  [Brief summary of your changes]
