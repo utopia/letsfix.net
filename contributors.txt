@@ -15,5 +15,8 @@ In chronological order:
 * Spike
   * Setting up initial reddit install
 
+* Mohammed A
+  * suggested name "letsfix" after so many other ideas
+
 * [Your name or handle] <[email or website]>
   * [Brief summary of your changes]
