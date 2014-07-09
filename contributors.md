@@ -16,7 +16,7 @@
   * Helped with initial reddit install
 
 * Mohammed A
-  * suggested name "LetsFix" after so many other ideas
+  * suggested name "LetsFix"
 
 * [Your name or handle] <[email or website]>
   * [Brief summary of your changes]
