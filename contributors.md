@@ -12,7 +12,7 @@
 * Reddit team <https://github.com/reddit/reddit>
   * Original codebase
 
-* Spike
+* Spike H
   * Helped with initial reddit install
 
 * Mohammed A
