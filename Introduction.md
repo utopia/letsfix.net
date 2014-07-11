@@ -1,4 +1,5 @@
-This document introduces someone new to Letsfix.
+
+## Do more than just talk about problems, *fix* them.
 
 ### Welcome to Letsfix
 
