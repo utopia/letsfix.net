@@ -8,7 +8,7 @@
 
 There's plenty of good intention in the world, but that doesn't always translate into results. Use Letsfix to:
 
-* **Point out** what needs fixing. File [bug reports](http://en.wikipedia.org/wiki/Bug_tracking_system) on the real world. Other users can help contribute to why these issues are important, and add their support towards the fix.
+* **Point out** what needs fixing. File [bug reports](http://en.wikipedia.org/wiki/Bug_tracking_system) on the real world. Anyone can contribute to why an issue is important, and give their support to find a fix.
 
 * **Develop a community** motivated to fix that cause. Stay in contact, without fear of spam.
 
