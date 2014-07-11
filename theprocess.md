@@ -4,7 +4,7 @@
 
 ### Step 1. Identify the Problem
 ##### "As any doctor can tell you, the most crucial step toward healing is having the right diagnosis. If the disease is precisely identified, a good resolution is far more likely." — Dr. Andrew Weil
-Answer these questions to start a new Problem page. Here's the [New Issue form](https://simplesurvey.typeform.com/to/yqo8ek).
+Answer these questions to start a new Problem page. Here's the [New Problem form](https://simplesurvey.typeform.com/to/yqo8ek).
   * What is the problem? (Just a short title.)
   * Describe it. *What are the facts?* This section can be collaboratively improved, so don't stress over it. Some questions it should eventually answer:
     * How long has this been a problem? Where can we see it? What causes it? How many people are affected? To what degree? Is the problem getting better or worse? Has this been written about?
@@ -13,9 +13,9 @@ Answer these questions to start a new Problem page. Here's the [New Issue form](
 ### Step 2. Spread Awareness
 ##### "Alone we can do so little, together we can do so much." — Helen Keller
   * Share the link to the Problem page with friends. Email, Facebook, Twitter, &c work well.
-  * Visitors will be able to add themselves to each issue: *"This is important, Let's Fix!"*
+  * Visitors will be able to add themselves to each Problem: *"This is important, Let's Fix!"*
     * The community shows how widespread it wants a fix to this issue.
-    * This also makes it easier for each individual to follow up later. They will be able to see all issues they've identified, and can get a polite reminder after a period of time.
+    * This also makes it easier for each individual to follow up later. They will be able to see all Problems they've identified, and can get a polite reminder after a period of time.
 
 ### Step 3. Gather Solutions
 ##### "None of us is as smart as all of us." — Ken Blanchard
