@@ -10,8 +10,8 @@ There's lots of good intention out in the world, but that doesn't always transla
 
 Use Letsfix to:
 
-(1) Demonstrate what needs fixing. File [bug reports](http://en.wikipedia.org/wiki/Bug_tracking_system) on the real world. Other users can help contribute to why these issues are important, and add their support towards the fix.
+* **Point out** what needs fixing. File [bug reports](http://en.wikipedia.org/wiki/Bug_tracking_system) on the real world. Other users can help contribute to why these issues are important, and add their support towards the fix.
 
-(2) Develop a community motivated to fix that cause.
+* **Develop a community** motivated to fix that cause. Stay in contact, without fear of spam.
 
-(2) Organize solutions.
+* **Organize solutions**. Harness the wisdom of the crowd to bring the best ideas to the forefront.
