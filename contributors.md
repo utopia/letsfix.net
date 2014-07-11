@@ -5,12 +5,7 @@
 * David Ernst <github@dsernst.com>
 
 
-##### Contributors
-
-###### In chronological order:
-
-* Reddit team <https://github.com/reddit/reddit>
-  * Original codebase
+##### Contributors (chronological)
 
 * Spike H
   * Helped with initial reddit install
@@ -20,6 +15,8 @@
 
 * Loren R
   * Worked through mission statement text
+
+###### Your name here, [write us](mailto:add-to-contibutor-list@mtm.gs):
 
 * [Your name or handle] <[email or website]>
   * [Brief summary of your changes]
