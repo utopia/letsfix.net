@@ -1,4 +1,4 @@
-### Contributions to the Letsfix project
+### Contributions to the LetsFix project
 
 ##### Creator & Maintainer
 
