@@ -18,5 +18,8 @@
 * Mohammed A
   * suggested name "LetsFix"
 
+* Loren R
+  * Worked through mission statement text
+
 * [Your name or handle] <[email or website]>
   * [Brief summary of your changes]
