@@ -4,7 +4,7 @@ From [soup to nuts](http://en.wikipedia.org/wiki/Soup_to_nuts), how can someone 
 
 ### Step 1. Identify the Problem
 ##### "As any doctor can tell you, the most crucial step toward healing is having the right diagnosis. If the disease is precisely identified, a good resolution is far more likely." — Dr. Andrew Weil
-Answer these questions to open a new Issue on LetsFix: [NEW ISSUE FORM](https://simplesurvey.typeform.com/to/yqo8ek)
+Answer these questions to open a new Issue on LetsFix. Here's the [New Issue Form](https://simplesurvey.typeform.com/to/yqo8ek)
   * What is the issue? (Just a short title.)
   * Describe the problem. *What are the facts?* This section can be collaboratively improved. Some suggestions to think about:
     * How long has this been a problem? Where can we see it? What causes the problem? How many people are affected? To what degree? Is the problem getting better or worse? Where has this problem been written about?
