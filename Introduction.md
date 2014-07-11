@@ -8,10 +8,10 @@
 
 There's lots of good intention out in the world, but that doesn't always translate into results.
 
-We want to be able to:
+Use Letsfix to:
 
-(1) Demonstrate what needs fixing. We envision an easy to use system to file bug reports on the real world. Other users can help contribute to why these issues are important, and add their support towards the fix.
+(1) Demonstrate what needs fixing. File [bug reports](http://en.wikipedia.org/wiki/Bug_tracking_system) on the real world. Other users can help contribute to why these issues are important, and add their support towards the fix.
 
-(2) Organize possible actionable solutions for each issue.
+(2) Develop a community motivated to fix that cause.
 
-(3) Maintain the connection among the people who already feel motivated towards fixing a cause.
+(2) Organize solutions.
