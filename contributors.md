@@ -14,7 +14,7 @@
   * suggested name "LetsFix"
 
 * Loren R
-  * Worked through mission statement text
+  * Worked through Mission Statement text
 
 ###### Your name here, [write us](mailto:add-to-contibutor-list@mtm.gs):
 
