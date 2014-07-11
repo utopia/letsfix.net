@@ -6,7 +6,7 @@
 ##### "As any doctor can tell you, the most crucial step toward healing is having the right diagnosis. If the disease is precisely identified, a good resolution is far more likely." — Dr. Andrew Weil
 Answer these questions to start a new Problem page. Here's the [New Issue form](https://simplesurvey.typeform.com/to/yqo8ek).
   * What is the problem? (Just a short title.)
-  * Describe it. *What are the facts?* This section can be collaboratively improved. Some suggestions to think about:
+  * Describe it. *What are the facts?* This section can be collaboratively improved, so don't stress over it. Some questions it should eventually answer:
     * How long has this been a problem? Where can we see it? What causes it? How many people are affected? To what degree? Is the problem getting better or worse? Has this been written about?
   * Who's affected? Is this specific to one group, or the whole world?
 
