@@ -1,6 +1,6 @@
 # How to Solve Problems: The LetsFix Process
 
-#### How should I solve a problem?
+#### "How can *I* solve a big problem? I'm just one person."
 
 ### Step 1. Identify the Problem
 ##### "As any doctor can tell you, the most crucial step toward healing is having the right diagnosis. If the disease is precisely identified, a good resolution is far more likely." — Dr. Andrew Weil
