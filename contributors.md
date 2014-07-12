@@ -7,6 +7,9 @@
 
 ##### Contributors (chronological)
 
+* Dave Juarez www.davejuarezmusic.com
+  * Ground zero inspiration
+
 * Spike H
   * Helped with initial reddit install
 
