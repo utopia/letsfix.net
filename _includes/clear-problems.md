@@ -1,2 +1,2 @@
-# This is a guideline about what the most effective Problem pages look like.
+# This is a guideline for writing the most effective Problem pages.
 
