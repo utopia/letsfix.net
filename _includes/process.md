@@ -1,4 +1,6 @@
-# How to Solve Problems: The LetsFix Process
+---
+title: How to Solve Problems: The LetsFix Process
+---
 
 #### "How can *I* solve a big problem? I'm just one person."
 
