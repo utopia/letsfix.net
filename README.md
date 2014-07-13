@@ -1,6 +1,5 @@
 [![Gittip](https://img.shields.io/gittip/letsfix.svg)](https://www.gittip.com/letsfix/)
 
-
 Hello
 ====
 
