@@ -13,4 +13,4 @@ Development mailing-list: [letsfix-dev@googlegroups.com](https://groups.google.c
 
 Come say hi in our chatroom: [#letsfix on Freenode](http://webchat.freenode.net/?channels=letsfix)
 
-Browse [the Issues list](https://github.com/LetsFix/letsfix.net/issues) here on Github to participate. Feel free to leave a comment, criticism, or suggestion wherever you see a chance to add value.
+Browse [the Issues list](https://github.com/LetsFix/letsfix.net/issues?direction=desc&page=1&sort=updated&state=open) here on Github to participate. Feel free to leave a comment, criticism, or suggestion wherever you see a chance to add value.
