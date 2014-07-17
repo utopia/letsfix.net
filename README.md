@@ -9,6 +9,8 @@ Hello
 
 Learn more about LetsFix here: [Introduction to LetsFix](https://github.com/LetsFix/letsfix.net/blob/master/Introduction.md)
 
+Development mailing-list: [letsfix-dev@googlegroups.com](https://groups.google.com/forum/#!forum/letsfix-dev). < click to join
+
 Come say hi in our chatroom: [#letsfix on Freenode](http://webchat.freenode.net/?channels=letsfix)
 
 Browse [the Issues list](https://github.com/LetsFix/letsfix.net/issues) here on Github to participate. Feel free to leave a comment, criticism, or suggestion wherever you see a chance to add value.
