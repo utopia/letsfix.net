@@ -1,4 +1,3 @@
-[![Open Issues](http://img.shields.io/github/issues/letsfix/letsfix.net.svg)](https://github.com/LetsFix/letsfix.net/issues)
 [![Gittip](https://img.shields.io/gittip/letsfix.svg)](https://www.gittip.com/letsfix/)
 [![Chatroom: #letsfix](http://img.shields.io/badge/chatroom-%23letsfix-ff69b4.svg)](http://webchat.freenode.net/?channels=letsfix)
 
