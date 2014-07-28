@@ -10,7 +10,7 @@
 * Dave Juarez www.davejuarezmusic.com
   * Ground zero inspiration
 
-* Ian Gilman
+* Ian G
   * "Issue Tracking for the Real World"
 
 * Alex P
