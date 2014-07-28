@@ -16,8 +16,9 @@
 * Spike H
   * initial reddit install
 
-* Mohammed A
+* Mohammed Adawulai
   * suggested name "Let's Fix"
+  * lots of sharing
 
 * Loren R
   * Mission Statement text
