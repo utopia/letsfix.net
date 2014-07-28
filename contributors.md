@@ -16,6 +16,8 @@
 * Alex P
   * Globe icon
 
+* Tom
+
 * Spike H
   * initial reddit install
 
