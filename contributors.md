@@ -11,7 +11,7 @@
   * Ground zero inspiration
 
 * Spike H
-  * Helped with initial reddit install
+  * initial reddit install
 
 * Mohammed A
   * suggested name "Let's Fix"
