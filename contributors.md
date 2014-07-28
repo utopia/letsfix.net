@@ -19,6 +19,7 @@
   * space sketch
 
 * Tom
+  * funding
 
 * Aneeqa
   * helped me get back on track
