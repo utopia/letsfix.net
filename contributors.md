@@ -9,6 +9,7 @@
 
 * Dave Juarez www.davejuarezmusic.com
   * Ground zero inspiration
+  * Mockup 1
 
 * Ian G
   * "Issue Tracking for the Real World"
