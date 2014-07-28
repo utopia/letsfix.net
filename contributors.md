@@ -18,6 +18,8 @@
 
 * Tom
 
+* Aneeqa
+
 * Spike H
   * initial reddit install
 
