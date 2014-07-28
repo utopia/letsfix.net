@@ -14,7 +14,8 @@
   * "Issue Tracking for the Real World"
 
 * Alex P
-  * Globe icon
+  * Globe image
+  * space sketch
 
 * Tom
 
