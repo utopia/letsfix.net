@@ -13,6 +13,9 @@
 * Ian Gilman
   * "Issue Tracking for the Real World"
 
+* Alex P
+  * Globe icon
+
 * Spike H
   * initial reddit install
 
