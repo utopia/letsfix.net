@@ -14,12 +14,12 @@
   * Helped with initial reddit install
 
 * Mohammed A
-  * suggested name "LetsFix"
+  * suggested name "Let's Fix"
 
 * Loren R
-  * Worked through Mission Statement text
+  * Mission Statement text
 
-###### Your name here, [write us](mailto:add-to-contibutor-list@mtm.gs):
+###### Your name here, [write us](mailto:update-contibutors@letsfix.net):
 
 * [Your name or handle] <[email or website]>
   * [Brief summary of your changes]
