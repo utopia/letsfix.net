@@ -1,4 +1,4 @@
-### Contributions to the LetsFix project
+### Contributors to LetsFix.net
 
 ##### Creator & Maintainer
 
@@ -36,5 +36,5 @@
 
 ###### Your name here, [write us](mailto:update-contibutors@letsfix.net):
 
-* [Your name or handle] <[email or website]>
-  * [Brief summary of your changes]
+* [Your name] <[email, website]>
+  * [your changes]
