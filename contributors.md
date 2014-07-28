@@ -10,6 +10,9 @@
 * Dave Juarez www.davejuarezmusic.com
   * Ground zero inspiration
 
+* Ian Gilman
+  * "Issue Tracking for the Real World"
+
 * Spike H
   * initial reddit install
 
