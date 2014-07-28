@@ -19,6 +19,7 @@
 * Tom
 
 * Aneeqa
+  * helped me get back on track
 
 * Spike H
   * initial reddit install
